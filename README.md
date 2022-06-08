@@ -7,7 +7,7 @@
 + Riah Ilyas
 + Khattala Mohammed
 
-##Algorithme utilisé
+## Algorithme utilisé
 
 Algorithme de classification
 
