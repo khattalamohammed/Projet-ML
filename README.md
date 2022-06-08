@@ -16,4 +16,5 @@ Algorithme de classification
 + Pandas       :pour l'analyse de données.
 + Numpy        :pour effectuer les calcules mathematiques.
 + Matplotlib   :pour la visualisation.
-+ scikit learn :pour utiliser le modele de classification.
++ Scikit learn :pour utiliser des modeles de classification.
++ XGBoost      :pour utiliser des modeles de classification.
