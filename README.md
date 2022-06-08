@@ -2,16 +2,16 @@
 
 ## Realisateurs :
 
-+ Said Oubaasine
++ Said Oubaassine
 + Moussa Moubarak Mohamed
 + Riah Ilyas
 + Khattala Mohammed
 
-## Algorithme utilisé
+## Algorithme utilisé :
 
 Algorithme de classification
 
-## Bibliothèques utilisées
+## Bibliothèques utilisées :
 
 + Pandas       :pour l'analyse de données.
 + Numpy        :pour effectuer les calcules mathematiques.
